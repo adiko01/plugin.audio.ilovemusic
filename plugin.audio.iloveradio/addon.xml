@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon 
+    id="plugin.audio.iloveradio"
+    name="[COLOR white]I Love Radio[/COLOR]"
+    version="1.0.0" 
+    provider-name="adiko01">
+    <requires>
+		<import addon="xbmc.python" version="2.1.0"/>
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="addon.py">
+		<provides>audio</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<platform>all</platform>
+		<summary>[COLOR white]I Love Radio[/COLOR]</summary>
+		<description>
+[COLOR white]I Love Radio - Webstreams[/COLOR]
+http://www.iloveradio.de/
+[COLOR blue]Erstellt von: adiko01[/COLOR]
+</description>
+		<license>CC-BY-SA 4.0</license>
+		<language>de</language>	
+		<source></source>
+		<email></email>
+	</extension>
+</addon>

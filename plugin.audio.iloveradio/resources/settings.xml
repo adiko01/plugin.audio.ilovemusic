@@ -1,0 +1,5 @@
+<settings>
+<category label="Settings">
+	<setting id="view-mode" type="number" label="View Mode" default="500"/>
+</category>
+</settings>
