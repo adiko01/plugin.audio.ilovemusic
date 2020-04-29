@@ -13,11 +13,14 @@ def add_item(url,infolabels,):
     xbmcplugin.addDirectoryItem(int(sys.argv[1]),url,listitem)
 
 add_item('http://stream01.iloveradio.de/iloveradio1.mp3',{'title':'I Love Radio'})
-add_item('http://stream01.iloveradio.de/iloveradio2.mp3',{'title':'I Love 2 Dance Radio'})
+add_item('http://stream01.iloveradio.de/iloveradio2.mp3',{'title':'I Love 2 Dance'})
 add_item('https://streams.ilovemusic.de/iloveradio23.mp3',{'title':'I Love Chill Nation'})
 add_item('https://streams.ilovemusic.de/iloveradio103.mp3',{'title':'I Love Dance First'})
 add_item('https://streams.ilovemusic.de/iloveradio6.mp3',{'title':'I Love Deutschrap Beste'})
 add_item('https://streams.ilovemusic.de/iloveradio104.mp3',{'title':'I Love Deutschrap First!'})
+add_item('https://streams.ilovemusic.de/iloveradio16.mp3',{'title':'I Love Greatest Hits'})
+add_item('https://streams.ilovemusic.de/iloveradio21.mp3',{'title':'I Love Hardstyle'})
+add_item('https://streams.ilovemusic.de/iloveradio3.mp3',{'title':'I Love Hip Hop'})
 
 
 xbmc.executebuiltin("Container.SetViewMode(%s)" % addon.getSetting('view-mode'))
