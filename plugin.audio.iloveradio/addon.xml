@@ -2,7 +2,7 @@
 <addon 
     id="plugin.audio.iloveradio"
     name="[COLOR white]I Love Radio[/COLOR]"
-    version="1.0.1" 
+    version="1.0.2" 
     provider-name="adiko01">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -22,5 +22,22 @@ http://www.iloveradio.de/
 		<language>de</language>	
 		<source></source>
 		<email></email>
+	<news>
+	v1.0.2 (40-04-2020)
+	- Kleinere Veränderrungen
+	- 
+	v1.0.1 (30-04-2020)
+	- Schreibfehler Korrektur
+   - hinzugefuegt wurden
+      - I Love Greatest Hits
+      - I Love Hardstyle
+      - I Love Hip Hop
+v1.0.0  (30-04-2020)
+   - First Release
+    </news>
+	<assets>
+        <icon>resources/icon.png</icon>
+        <fanart>resources/fanart.jpg</fanart>
+    </assets>
 	</extension>
 </addon>
