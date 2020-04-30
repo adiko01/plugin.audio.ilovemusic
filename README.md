@@ -14,3 +14,8 @@ I Love Deutschrap First!
 I Love Greatest Hits
 I Love Hardstyle
 I Love Hip Hop
+I Love Hits 2020
+I Love Hits History
+I Love Mainstage
+I Love Mashup
+I Love Music and Chill

@@ -21,5 +21,12 @@ add_item('https://streams.ilovemusic.de/iloveradio104.mp3',{'title':'I Love Deut
 add_item('https://streams.ilovemusic.de/iloveradio16.mp3',{'title':'I Love Greatest Hits'})
 add_item('https://streams.ilovemusic.de/iloveradio21.mp3',{'title':'I Love Hardstyle'})
 add_item('https://streams.ilovemusic.de/iloveradio3.mp3',{'title':'I Love Hip Hop'})
+add_item('https://streams.ilovemusic.de/iloveradio109.mp3',{'title':'I Love Hits 2020'})
+add_item('https://streams.ilovemusic.de/iloveradio12.mp3',{'title':'I Love Hits History'})
+add_item('https://streams.ilovemusic.de/iloveradio22.mp3',{'title':'I Love Mainstage'})
+add_item('https://streams.ilovemusic.de/iloveradio5.mp3',{'title':'I Love Mashup'})
+add_item('https://streams.ilovemusic.de/iloveradio10.mp3',{'title':'I Love Music and Chill'})
+
+
 
 xbmcplugin.endOfDirectory( handle=int( sys.argv[ 1 ] ), succeeded=True, updateListing=False, cacheToDisc=False)

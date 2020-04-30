@@ -22,19 +22,6 @@ http://www.iloveradio.de/
 		<language>de</language>	
 		<source></source>
 		<email></email>
-	<news>
-v1.0.2 (40-04-2020)
-   - Kleinere Veränderrungen
-   - Unnötige Einstellungen Entfernt
-v1.0.1 (30-04-2020)
-   - Schreibfehler Korrektur
-   - hinzugefuegt wurden
-      - I Love Greatest Hits
-      - I Love Hardstyle
-      - I Love Hip Hop
-v1.0.0  (30-04-2020)
-   - First Release
-    </news>
 	<assets>
         <icon>resources/icon.png</icon>
         <fanart>resources/fanart.jpg</fanart>
