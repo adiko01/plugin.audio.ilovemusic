@@ -1,24 +1,24 @@
 # plugin.audio.iloveradio
-I Love Radio Kodi Addon
+I LOVE RADIO Kodi Addon
 
-Dies ist ein kleines Addon für Kodi zum Abspielen der I Love Radio Sender.
+Dies ist ein kleines Addon für Kodi zum Abspielen der I LOVE RADIO Sender.
 https://www.ilovemusic.de
 
 Zur Zeit werden folgende Sender Unterstützt:
-I Love Radio
-I Love 2 Dance Radio
-I Love Chill Nation
-I Love Dance First
-I Love Deutschrap Beste
-I Love Deutschrap First!
-I Love Greatest Hits
-I Love Hardstyle
-I Love Hip Hop
-I Love Hits 2020
-I Love Hits History
-I Love Mainstage
-I Love Mashup
-I Love Music and Chill
+I LOVE RADIO
+I LOVE 2 DANCE
+I LOVE CHILL NATION
+I LOVE DANCE FIRST
+I LOVE DEUTSCHRAP BESTE
+I LOVE DEUTSCHRAP FIRST!
+I LOVE GREATEST HITS
+I LOVE HARDSTYLE
+I LOVE HIP HOP
+I LOVE HITS 2020
+I LOVE HITS HISTORY
+I LOVE MAINSTAGE
+I LOVE MASHUO
+I LOVE MUSIC AND CHILL
 I LOVE PARTY HARD
 I LOVE POPSTARS
 I LOVE ROBIN SCHULZ
