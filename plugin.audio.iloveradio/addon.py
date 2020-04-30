@@ -26,7 +26,17 @@ add_item('https://streams.ilovemusic.de/iloveradio12.mp3',{'title':'I Love Hits 
 add_item('https://streams.ilovemusic.de/iloveradio22.mp3',{'title':'I Love Mainstage'})
 add_item('https://streams.ilovemusic.de/iloveradio5.mp3',{'title':'I Love Mashup'})
 add_item('https://streams.ilovemusic.de/iloveradio10.mp3',{'title':'I Love Music and Chill'})
-
+add_item('https://streams.ilovemusic.de/iloveradio14.mp3',{'title':'I LOVE PARTY HARD'})
+add_item('https://streams.ilovemusic.de/iloveradio11.mp3',{'title':'I LOVE POPSTARS'})
+add_item('https://streams.ilovemusic.de/iloveradio18.mp3',{'title':'I LOVE ROBIN SCHULZ'})
+add_item('https://streams.ilovemusic.de/iloveradio7.mp3',{'title':'I LOVE THE BEACH'})
+add_item('https://streams.ilovemusic.de/iloveradio20.mp3',{'title':'I LOVE THE CLUB'})
+add_item('https://streams.ilovemusic.de/iloveradio4.mp3',{'title':'I LOVE THE DJ BY DJ MAG'})
+add_item('https://streams.ilovemusic.de/iloveradio15.mp3',{'title':'I LOVE THE SUN'})
+add_item('https://streams.ilovemusic.de/iloveradio9.mp3',{'title':'I LOVE TOP 100 CHARTS'})
+add_item('https://streams.ilovemusic.de/iloveradio24.mp3',{'title':'I LOVE TRAP NATION'})
+add_item('https://streams.ilovemusic.de/iloveradio13.mp3',{'title':'I LOVE US ONLY RAP RADIO'})
+add_item('https://streams.ilovemusic.de/iloveradio8.mp3',{'title':'I LOVE X-MAS'})
 
 
 xbmcplugin.endOfDirectory( handle=int( sys.argv[ 1 ] ), succeeded=True, updateListing=False, cacheToDisc=False)
