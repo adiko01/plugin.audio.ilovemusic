@@ -22,6 +22,4 @@ add_item('https://streams.ilovemusic.de/iloveradio16.mp3',{'title':'I Love Great
 add_item('https://streams.ilovemusic.de/iloveradio21.mp3',{'title':'I Love Hardstyle'})
 add_item('https://streams.ilovemusic.de/iloveradio3.mp3',{'title':'I Love Hip Hop'})
 
-
-xbmc.executebuiltin("Container.SetViewMode(%s)" % addon.getSetting('view-mode'))
 xbmcplugin.endOfDirectory( handle=int( sys.argv[ 1 ] ), succeeded=True, updateListing=False, cacheToDisc=False)
