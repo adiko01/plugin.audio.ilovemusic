@@ -1,7 +1,7 @@
 # plugin.audio.iloveradio
-I LOVE RADIO Kodi Addon
+I LOVE Music Kodi Addon
 
-Dies ist ein kleines Addon für Kodi zum Abspielen der I LOVE RADIO Sender.
+Dies ist ein kleines Addon für Kodi zum Abspielen der I LOVE Music Sender.
 https://www.ilovemusic.de
 
 Zur Zeit werden folgende Sender Unterstützt:

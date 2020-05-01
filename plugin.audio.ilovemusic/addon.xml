@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon 
-    id="plugin.audio.iloveradio"
-    name="[COLOR white]I Love Radio[/COLOR]"
-    version="1.0.3" 
+    id="plugin.audio.ilovemusic"
+    name="[COLOR white]I Love Music[/COLOR]"
+    version="2.0.0" 
     provider-name="adiko01">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -12,13 +12,13 @@
 	</extension>
 	<extension point="xbmc.addon.metadata">
 		<platform>all</platform>
-		<summary>[COLOR white]I Love Radio[/COLOR]</summary>
+		<summary>[COLOR white]I Love Music[/COLOR]</summary>
 		<description>
-[COLOR white]I Love Radio - Webstreams[/COLOR]
-http://www.iloveradio.de/
+[COLOR white]I Love Music - Webstreams[/COLOR]
+https://www.ilovemusic.de
 [COLOR blue]Erstellt von: adiko01[/COLOR]
 </description>
-		<license>CC-BY-SA 4.0</license>
+		<license></license>
 		<language>de</language>	
 		<source></source>
 		<email></email>
