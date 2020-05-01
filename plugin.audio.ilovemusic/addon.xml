@@ -2,7 +2,7 @@
 <addon 
     id="plugin.audio.ilovemusic"
     name="[COLOR white]I Love Music[/COLOR]"
-    version="2.0.0" 
+    version="2.0.0.1" 
     provider-name="adiko01">
     <requires>
 		<import addon="xbmc.python" version="2.1.0"/>
@@ -25,6 +25,8 @@ https://www.ilovemusic.de
 	<assets>
         <icon>resources/icon.png</icon>
         <fanart>resources/fanart.jpg</fanart>
+		<screenshot>resources/screenshot-1.jpg</screenshot>
+		<screenshot>resources/screenshot-2.jpg</screenshot>
     </assets>
 	</extension>
 </addon>
