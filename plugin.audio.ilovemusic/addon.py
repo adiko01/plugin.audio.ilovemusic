@@ -16,7 +16,7 @@ add_item('https://streams.ilovemusic.de/iloveradio1.mp3',{'title':'I LOVE RADIO'
 add_item('https://streams.ilovemusic.de/iloveradio2.mp3',{'title':'I LOVE 2 DANCE'})
 add_item('https://streams.ilovemusic.de/iloveradio23.mp3',{'title':'I LOVE CHILL NATION'})
 add_item('https://streams.ilovemusic.de/iloveradio103.mp3',{'title':'I LOVE DANCE FIRST'})
-add_item('https://streams.ilovemusic.de/iloveradio6.mp3',{'title':'I LOVE DEUTSCHRAP DESTE'})
+add_item('https://streams.ilovemusic.de/iloveradio6.mp3',{'title':'I LOVE DEUTSCHRAP BESTE'})
 add_item('https://streams.ilovemusic.de/iloveradio104.mp3',{'title':'I LOVE DEUTSCHRAP FIRST!'})
 add_item('https://streams.ilovemusic.de/iloveradio16.mp3',{'title':'I LOVE GREATEST HITS'})
 add_item('https://streams.ilovemusic.de/iloveradio21.mp3',{'title':'I LOVE HARDSTYLE'})
