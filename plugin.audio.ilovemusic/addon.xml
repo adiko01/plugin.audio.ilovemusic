@@ -19,7 +19,8 @@
 			I Love Music - Webstream player
 			https://www.ilovemusic.de
 		</description>
-		<language>de</language>	
+		<language>de</language>
+		<email>dev@adiko01.de</email>
 		<source>https://github.com/adiko01/plugin.audio.ilovemusic</source>
 		<assets>
 			<icon>resources/icon.png</icon>
