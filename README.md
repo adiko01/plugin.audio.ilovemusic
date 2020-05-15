@@ -1,5 +1,4 @@
 # plugin.audio.ilovemusic
-Entwicklungs Zweig zur Bilder Integration
 
 I LOVE Music Kodi Addon
 
