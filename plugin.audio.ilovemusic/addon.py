@@ -15,7 +15,7 @@ def add_item(url,infolabels,img=''):
 
 add_item('https://streams.ilovemusic.de/iloveradio1.mp3',{'title':'I LOVE RADIO'},os.path.join(icons_path,'i_love_radio.png'))
 add_item('https://streams.ilovemusic.de/iloveradio2.mp3',{'title':'I LOVE 2 DANCE'},os.path.join(icons_path,'i_love_2_dance.png'))
-add_item('https://streams.ilovemusic.de/iloveradio23.mp3',{'title':'I LOVE CHILL NATION'})
+add_item('https://streams.ilovemusic.de/iloveradio23.mp3',{'title':'I LOVE CHILL NATION'},os.path.join(icons_path,'i_love_chill_nation.png'))
 add_item('https://streams.ilovemusic.de/iloveradio103.mp3',{'title':'I LOVE DANCE FIRST'})
 add_item('https://streams.ilovemusic.de/iloveradio6.mp3',{'title':'I LOVE DEUTSCHRAP BESTE'})
 add_item('https://streams.ilovemusic.de/iloveradio104.mp3',{'title':'I LOVE DEUTSCHRAP FIRST!'})
