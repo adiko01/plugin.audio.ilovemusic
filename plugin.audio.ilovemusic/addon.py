@@ -2,15 +2,18 @@
 # -*- coding: utf-8 -*-
 import xbmcplugin,xbmcaddon,xbmcgui,os,sys
 
+addon = xbmcaddon.Addon()
+addon_path = addon.getAddonInfo('path').decode('utf-8')
+icons_path = os.path.join(addon_path,'resources','senderlogos')
 xbmcplugin.setContent(handle=int(sys.argv[1]), content='songs')
 				
-def add_item(url,infolabels,):
-    listitem = xbmcgui.ListItem(infolabels['title'])
+def add_item(url,infolabels,img=''):
+    listitem = xbmcgui.ListItem(infolabels['title'],iconImage=img,thumbnailImage=img)
     listitem.setInfo('audio',infolabels)
     listitem.setProperty('IsPlayable','true')
     xbmcplugin.addDirectoryItem(int(sys.argv[1]),url,listitem)
 
-add_item('https://streams.ilovemusic.de/iloveradio1.mp3',{'title':'I LOVE RADIO'})
+add_item('https://streams.ilovemusic.de/iloveradio1.mp3',{'title':'I LOVE RADIO'},os.path.join(icons_path,'i_love_radio.png'))
 add_item('https://streams.ilovemusic.de/iloveradio2.mp3',{'title':'I LOVE 2 DANCE'})
 add_item('https://streams.ilovemusic.de/iloveradio23.mp3',{'title':'I LOVE CHILL NATION'})
 add_item('https://streams.ilovemusic.de/iloveradio103.mp3',{'title':'I LOVE DANCE FIRST'})
