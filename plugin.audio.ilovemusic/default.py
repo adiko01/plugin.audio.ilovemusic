@@ -19,6 +19,11 @@ STREAMS = [
     ('https://ilm.stream35.radiohost.de/ilm_ilovedeutschrapbeste_mp3-192', 'I LOVE DEUTSCHRAP BESTE', 'i_love_deutschrap_beste.png'),
     ('https://ilm.stream35.radiohost.de/ilm_ilovedeutschrapfirst_mp3-192', 'I LOVE DEUTSCHRAP FIRST!', 'i_love_deutschrap_first.png'),
     ('https://ilm.stream18.radiohost.de/ilm_ilovegreatesthits_mp3-192', 'I LOVE GREATEST HITS', 'i_love_greatest_hits.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_ilovehardstyle_mp3-192', 'I LOVE HARDSTYLE', 'i_love_hardstyle.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovehiphop_mp3-192', 'I LOVE HIP HOP', 'i_love_hip_hop.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_ilovehitshistory_mp3-192', 'I LOVE HITS HISTORY', 'i_love_hits_history.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovemainstagemadness_mp3-192', 'I LOVE MAINSTAGE', 'i_love_mainstage.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovemashup_mp3-192', 'I LOVE MASHUP', 'i_love_mashup.png'),
     ('https://ilm.stream18.radiohost.de/ilm_iloveradio_mp3-192', 'I LOVE RADIO', 'i_love_radio.png')
 ]
 
