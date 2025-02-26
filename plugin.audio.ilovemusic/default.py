@@ -11,8 +11,11 @@ ADDON_NAME = ADDON.getAddonInfo('name')
 ADDON_ICON = os.path.join(ADDON.getAddonInfo('path'), 'resources', 'media', 'ico.png')
 
 STREAMS = [
-    ('https://ilm.stream18.radiohost.de/ilm_iloveradio_mp3-192', 'I LOVE RADIO', 'i_love_radio.png'),
-    ('https://ilm.stream18.radiohost.de/ilm_ilove2dance_mp3-192', 'I LOVE 2 DANCE', 'i_love_2_dance.png')
+    ('https://ilm.stream35.radiohost.de/ilm_ilovehiphophistory_mp3-192', 'I LOVE HIP HOP HISTORY', 'i_love_hip_hop_history.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovebass_mp3-192', 'I LOVE BASS BY HBZ', 'i_love_BASS_BY_HBZ.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_ilove2dance_mp3-192', 'I LOVE 2 DANCE', 'i_love_2_dance.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovechillhop_mp3-192', 'I LOVE CHILLHOP', 'i_love_chillhop.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_iloveradio_mp3-192', 'I LOVE RADIO', 'i_love_radio.png')
 ]
 
 def main():
