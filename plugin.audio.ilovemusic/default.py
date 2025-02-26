@@ -27,6 +27,12 @@ STREAMS = [
     ('https://ilm.stream35.radiohost.de/ilm_ilovemusicandchill_mp3-192', 'I LOVE MUSIC&CHILL', 'i_love_music_and_chill.png'),
     ('https://ilm.stream35.radiohost.de/ilm_ilovepartyhard_mp3-192', 'I LOVE PARTY HARD', 'i_love_party_hard.png'),
     ('https://ilm.stream18.radiohost.de/ilm_iloveradio_mp3-192', 'I LOVE RADIO', 'i_love_radio.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovethebeach_mp3-192', 'I LOVE THE BEACH', 'i_love_the_beach.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovethesun_mp3-192', 'I LOVE THE SUN', 'i_love_the_sun.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_ilovetop100charts_mp3-192', 'I LOVE THE TOP 100 CHARTS', 'i_love_the_top_100_charts.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_ilovetrashpop_mp3-192', 'I LOVE TRASHPOP', 'i_love_trashpop.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_iloveusonlyrapradio_mp3-192', 'I LOVE US ONLY RAP RADIO', 'i_love_us_only.rap.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_iloveworkout_mp3-192', 'I LOVE WORKOUT', 'i_love_workout.png'),
     ('https://ilm.stream35.radiohost.de/ilm_ilovexmas_mp3-192', 'I LOVE X-MAS', 'i_love_X-Mas.png')
 ]
 
