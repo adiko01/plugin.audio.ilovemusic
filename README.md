@@ -8,3 +8,6 @@ Dies ist ein kleines Addon für Kodi zum abspielen der I LOVE Music Sender.
 https://www.ilovemusic.de
 
 Zur Zeit werden folgende Sender Unterstützt:
+
+- I LOVE RADIO
+- I LOVE 2 DANCE
