@@ -24,7 +24,10 @@ STREAMS = [
     ('https://ilm.stream18.radiohost.de/ilm_ilovehitshistory_mp3-192', 'I LOVE HITS HISTORY', 'i_love_hits_history.png'),
     ('https://ilm.stream35.radiohost.de/ilm_ilovemainstagemadness_mp3-192', 'I LOVE MAINSTAGE', 'i_love_mainstage.png'),
     ('https://ilm.stream35.radiohost.de/ilm_ilovemashup_mp3-192', 'I LOVE MASHUP', 'i_love_mashup.png'),
-    ('https://ilm.stream18.radiohost.de/ilm_iloveradio_mp3-192', 'I LOVE RADIO', 'i_love_radio.png')
+    ('https://ilm.stream35.radiohost.de/ilm_ilovemusicandchill_mp3-192', 'I LOVE MUSIC&CHILL', 'i_love_music_and_chill.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovepartyhard_mp3-192', 'I LOVE PARTY HARD', 'i_love_party_hard.png'),
+    ('https://ilm.stream18.radiohost.de/ilm_iloveradio_mp3-192', 'I LOVE RADIO', 'i_love_radio.png'),
+    ('https://ilm.stream35.radiohost.de/ilm_ilovexmas_mp3-192', 'I LOVE X-MAS', 'i_love_X-Mas.png')
 ]
 
 def main():

@@ -9,7 +9,6 @@ https://www.ilovemusic.de
 
 Zur Zeit werden folgende Sender Unterstützt:
 
-- I LOVE RADIO
 - I LOVE HIP HOP BY HBZ
 - I LOVE 2 DANCE
 - I LOVE CHILLHOP
@@ -21,4 +20,7 @@ Zur Zeit werden folgende Sender Unterstützt:
 - I LOVE HITS HISTORY
 - I LOVE MAINSTAGE
 - I LOVE MASHUP
-- 
+- I LOVE MUSIC&CHILL
+- I LOVE PARTY HARD
+- I LOVE RADIO
+- I LOVE X-MAS
