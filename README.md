@@ -2,57 +2,9 @@
 
 I LOVE Music Kodi Addon
 
-Dies ist ein kleines Addon für Kodi zum Abspielen der I LOVE Music Sender.
+# Dieser Branch widmet sich der Neuentwicklung des für KODI Omega 
+
+Dies ist ein kleines Addon für Kodi zum abspielen der I LOVE Music Sender.
 https://www.ilovemusic.de
 
 Zur Zeit werden folgende Sender Unterstützt:
-
-I LOVE RADIO
-
-I LOVE 2 DANCE
-
-I LOVE CHILLHOP
-
-I LOVE DANCE FIRST
-
-I LOVE DEUTSCHRAP BESTE
-
-I LOVE DEUTSCHRAP FIRST!
-
-I LOVE GREATEST HITS
-
-I LOVE HARDSTYLE
-
-I LOVE HIP HOP
-
-I LOVE HITS HISTORY
-
-I LOVE MAINSTAGE
-
-I LOVE MASHUP
-
-I LOVE MONSTERCAT
-
-I LOVE MUSIC AND CHILL
-
-I LOVE NEW POP
-
-I LOVE PARTY HARD
-
-I LOVE ROBIN SCHULZ
-
-I LOVE THE BEACH
-
-I LOVE THE CLUB
-
-I LOVE THE DJ BY DJ MAG
-
-I LOVE THE SUN
-
-I LOVE TOP 100 CHARTS
-
-I LOVE TRASHPOP
-
-I LOVE US ONLY RAP RADIO
-
-I LOVE X-MAS
